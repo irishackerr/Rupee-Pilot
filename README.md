@@ -18,3 +18,4 @@ A desktop-based personal finance tracking application built with Python.
 
 ## Status
 MVP / Prototype
+FOR ACCESS -> https://drive.google.com/file/d/1Sn_CoHQjDI6Oy9apFoJDo4lD-x7ahYyK/view?usp=sharing
